@@ -1,0 +1,37 @@
+{
+  "config": {
+    "title": "Rn Docz Play",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.0.1",
+    "repository": null,
+    "native": true,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {
+    "src/button.mdx": {
+      "name": "Button",
+      "id": "8f5789ed061427117979d8e0b65d5dbe",
+      "filepath": "src/button.mdx",
+      "link": null,
+      "slug": "src-button",
+      "route": "/src-button",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "button",
+          "value": "Button"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        }
+      ]
+    }
+  }
+}
