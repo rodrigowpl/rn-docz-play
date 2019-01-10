@@ -1,0 +1,3 @@
+rootProject.name = 'RnDoczPlay'
+
+include ':app'
